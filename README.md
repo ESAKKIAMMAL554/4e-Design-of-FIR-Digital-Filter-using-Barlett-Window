@@ -41,10 +41,8 @@ title('Frequency Response of FIR LPF using Bartlett Window');
 ```
 
 # OUTPUT: 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0c846c4d-a04e-411b-94b8-2a222ef89318" />
 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/40994cde-eb96-45a4-a754-272fc4377996" />
-
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/eacc55a6-b65b-4be9-b61a-7cff19904507" />
 
 <img width="767" height="721" alt="image" src="https://github.com/user-attachments/assets/608b8310-6ed6-48d3-beb8-1cccbbd945db" />
 <img width="454" height="440" alt="image" src="https://github.com/user-attachments/assets/104ac2b3-d9f8-4661-8958-6d0db993b8df" />
@@ -95,7 +93,7 @@ title('Frequency Response of FIR HPF using Bartlett Window');
 ```
 
 # OUTPUT: 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/7483feda-ad04-4d0c-9e28-d2198e70a30e" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c477ba20-6334-4ac9-8b54-3107462cc813" />
 
 <img width="770" height="723" alt="image" src="https://github.com/user-attachments/assets/179ef36f-ee75-4a2f-9ddb-bd9915180c5b" />
 
@@ -147,7 +145,8 @@ title('Frequency Response of FIR BPF using Bartlett Window');
 ```
 
 # OUTPUT: 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/cdf6e30f-b46b-49b2-9fa6-f6f44ce4d5e4" />#
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f58f4388-e025-4b94-ab69-6599ac4daa6a" />
+
 <img width="757" height="721" alt="image" src="https://github.com/user-attachments/assets/ea586119-93b4-441c-ab52-d28136e64039" />
 <img width="528" height="456" alt="image" src="https://github.com/user-attachments/assets/7184690e-bd9b-4e16-98c4-74365eb4c33d" />
 
@@ -200,7 +199,7 @@ title('Frequency Response of FIR BSF using Bartlett Window');
 
 # OUTPUT: 
 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c90afde3-ff43-47a8-86f1-87629c6e6b95" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f59a40e2-0272-42ff-b038-554efa37c33f" />
 
 <img width="755" height="716" alt="image" src="https://github.com/user-attachments/assets/883f4eb8-bf91-4dc0-b1fb-ba1debbb9294" />
 <img width="594" height="509" alt="image" src="https://github.com/user-attachments/assets/e046e2cf-e168-42fc-af14-411778a60612" />
